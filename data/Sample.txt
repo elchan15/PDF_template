@@ -1,0 +1,2 @@
+{"pdf_title":"Sample","text":"10","x":"10","y":"10","width":"0","height":"10","border":"0","align":"L","multi":"1","font":"Arial","size":"12","bold":"on","text_color":"#000000","bg_color":"#ffffff"}
+{"pdf_title":"Sample","text":"10","x":"10","y":"10","width":"0","height":"10","border":"0","align":"L","multi":"1","font":"Arial","size":"12","bold":"on","text_color":"#000000","bg_color":"#ffffff"}
